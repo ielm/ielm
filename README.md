@@ -1,6 +1,6 @@
-### hi, i'm ivan 
+### hi, i'm ivan | he/him
 
-he/him | [Website](ivanleon.net) | [LinkedIn](https://www.linkedin.com/in/ivaneleon/) | [Instagram](https://www.instagram.com/__ielm__/)
+[Website](ivanleon.net) | [LinkedIn](https://www.linkedin.com/in/ivaneleon/) | [Instagram](https://www.instagram.com/__ielm__/)
 
 i'm a researcher, developer, musician, and architect with a passion for building the world around me. above all, i believe in pursuing the elegant integration of technology in our everyday actions and interactions. my dream is to dismantle the barriers between technology and the human experience through thoughtfully designed agent systems and novel computing environments.
 
