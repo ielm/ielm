@@ -8,4 +8,4 @@ My research and interests lie at the intersection of artificial intelligence, bi
 
 I am a guitarist and synthesist and combine the two mediums to generate unique sounds, ambients, and textures. I love building audio-visual performance installations in my free time and build generative audio-visual performance tools for artists and musicians.
 
-i am a graduate student at [rensselaer polytechnic institute]((https://rpi.edu)). my current work includes ontogen, a natural language generation system; gator, an autonomous dialog agent; and omicron, a multi-modal agent orchestration framework.
+My professional work includes building search tools for researchers at ScholarLink and leading the Tech Org at Guidance Analytics. My personal work includes ontogen, a natural language generation system; gator, an autonomous dialog agent; and omicron, a multi-modal agent orchestration framework.
