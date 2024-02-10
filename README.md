@@ -1,10 +1,9 @@
-### hi, i'm ivan
+### hi, i'm ivan [website](https://ivanleon.net) | [linkedin](https://www.linkedin.com/in/ivaneleon/) | [instagram](https://www.instagram.com/__ielm__/)
+
 <a href="https://github.com/ielm">
   <img align="center" width="49%" src="./header.svg" />
 </a>
 <br/>
-
-[website](https://ivanleon.net) | [linkedin](https://www.linkedin.com/in/ivaneleon/) | [instagram](https://www.instagram.com/__ielm__/)
 
 <a href="https://github.com/ielm">
   <img align="center" width="49%" src="./repositories.svg" />
