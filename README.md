@@ -1,6 +1,18 @@
-### hi, i'm ivan | he/him
+### hi, i'm ivan
+<a href="https://github.com/ielm">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
 
 [website](https://ivanleon.net) | [linkedin](https://www.linkedin.com/in/ivaneleon/) | [instagram](https://www.instagram.com/__ielm__/)
+
+<br/>
+<a href="https://github.com/ielm">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/ielm">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
 I’m an antidisciplinary cognitive scientist, artist, and technologist with a passion for building the world around me. Above all, I believe in pursuing the elegant integration of technology in our everyday actions and interactions. My dream is to dismantle the barriers between technology and the human experience through thoughtfully designed agent systems and novel computing environments.
 
@@ -10,16 +22,6 @@ I am a guitarist and synthesist and combine the two mediums to generate unique s
 
 My professional work includes building AI tools for mental health professionals at Monoql and building search tools for researchers at ScholarLink. My personal work includes ontogen, a natural language generation system; gator, an autonomous dialog agent; and omicron, a multi-modal agent orchestration framework.
 
-<a href="https://github.com/ielm">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/ielm">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/ielm">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
 
 <a href="https://github.com/ielm">
   <img align="center" width="49%" src="./iso_calender.svg" />
