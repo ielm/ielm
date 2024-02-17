@@ -126,6 +126,7 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 265
+          plugin_languages_ignored: html, css, renderscript
 
 
   repositories:
