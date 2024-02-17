@@ -122,6 +122,7 @@ jobs:
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_languages: yes
+          plugin_languages_sections: recently-used
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot, RenderScript, MDX, Jupyter Notebook, Common Lisp
