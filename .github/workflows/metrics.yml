@@ -124,7 +124,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, RenderScript, MDX
+            gnuplot, RenderScript, MDX, Jupyter Notebook
+          plugin_languages_recent_days: 365
           plugin_languages_limit: 8
 
   #         # Options
