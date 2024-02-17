@@ -123,7 +123,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_followup: yes
           plugin_languages: yes
-          plugin-languages_indepth_custom: ielm/leetcode, ielm/utapi-rs, ielm/vendia-banking-api, monoql-io/monoql
+          plugin_languages_indepth_custom: ielm/leetcode, ielm/utapi-rs, ielm/vendia-banking-api, monoql-io/monoql
           plugin_languages_sections: most-used
           plugin_languages_recent_load: 10000
           plugin_languages_recent_days: 365
