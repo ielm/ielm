@@ -125,7 +125,7 @@ jobs:
           plugin_languages_indepth: yes
           # plugin_languages_sections: recently-used
           plugin_languages_ignored: >-
-            html, css, tex, less, qmake, lex, cmake, shell, gnuplot, RenderScript, MDX, Jupyter Notebook, Common Lisp
+            html, css, tex, less, qmake, lex, cmake, shell, gnuplot, RenderScript, MDX, Jupyter Notebook, Common Lisp, JetBrains MPS, Batchfile, TSX
           plugin_languages_skipped: >-
             ielm/leia-main, ielm/OntoGen_Legacy, ielm/python_scaffold, ielm/OntoGen_v0.0.3, ielm/lex, ielm/vex
           plugin_languages_categories: programming
