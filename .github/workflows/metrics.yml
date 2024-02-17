@@ -125,10 +125,11 @@ jobs:
           plugin_languages_indepth: yes
           # plugin_languages_sections: recently-used
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, RenderScript, MDX, Jupyter Notebook, Common Lisp
-          plugin_languages_indepth_custom: monoql-io/monoql, monoql-io/kinde-rs
+            html, css, tex, less, qmake, lex, cmake, shell, gnuplot, RenderScript, MDX, Jupyter Notebook, Common Lisp
+          plugin_languages_skipped: >-
+            ielm/leia-main, ielm/OntoGen_Legacy, ielm/python_scaffold, ielm/OntoGen_v0.0.3, ielm/lex, ielm/vex
           plugin_languages_categories: programming
+          plugin_languages_indepth_custom: monoql-io/monoql, monoql-io/kinde-rs
           # plugin_languages_recent_categories: programming
           # plugin_languages_recent_days: 182
           plugin_languages_limit: 8
