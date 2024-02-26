@@ -1,4 +1,4 @@
-### hi, i'm ivan [website](https://ivanleon.net) | [linkedin](https://www.linkedin.com/in/ivaneleon/) | [instagram](https://www.instagram.com/__ielm__/)
+### hi, i'm ivan [website](https://ielm.io) | [linkedin](https://www.linkedin.com/in/ivaneleon/) | [instagram](https://www.instagram.com/__ielm__/) | [twitter/x](https://twitter.com/__ielm__)
 
 <a href="https://github.com/ielm">
   <img align="center" width="49%" src="./header.svg" />
