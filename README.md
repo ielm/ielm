@@ -1,4 +1,4 @@
-### hi, i'm ivan [website](https://ielm.io) | [linkedin](https://www.linkedin.com/in/ivaneleon/) | [instagram](https://www.instagram.com/__ielm__/) | [twitter/x](https://twitter.com/__ielm__)
+### hi, i'm ivan [website](https://ielm.io) | [linkedin](https://www.linkedin.com/in/ielm/) | [instagram](https://www.instagram.com/__ielm__/) | [twitter/x](https://twitter.com/__ielm__)
 
 I’m an antidisciplinary cognitive scientist, artist, and technologist with a passion for building the world around me. Above all, I believe in pursuing the elegant integration of technology in our everyday actions and interactions. My dream is to dismantle the barriers between technology and the human experience through thoughtfully designed agent systems and novel computing environments.
 
