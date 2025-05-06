@@ -7,10 +7,3 @@ My research and interests lie at the intersection of artificial intelligence, bi
 I am a guitarist and synthesist and combine the two mediums to generate unique sounds, ambients, and textures. I love building audio-visual performance installations in my free time and build generative audio-visual performance tools for artists and musicians.
 
 My professional work includes building AI tools for mental health professionals at Monoql and building search tools for researchers at ScholarLink. My personal work includes ontogen, a natural language generation system; gator, an autonomous dialog agent; and omicron, a multi-modal agent orchestration framework.
-
-<a href="https://github.com/ielm">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/ielm">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
